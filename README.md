@@ -38,8 +38,8 @@ Para mais detalhes, consulte a documentação em `docs/`.
 - [Visão geral](docs/overview.md)
 - [Arquitetura](docs/architecture.md)
 - [Configuração e execução](docs/setup.md)
-- [Exemplos de consultas Athena](docs/examples/athena-queries.md)
-- [Exemplo de script de Glue Job](docs/examples/glue-job-script.md)
+- [Exemplos de consultas Athena](docs/examples/athena-queries-simples.md)  (Consultas simples, apenas para exemplificar)
+- [Explicação de script de Glue Job](docs/examples/glue-job-scripts.md)  (O código pode ser consultado na pasta scripts)
 
 ## 🛠️ Requisitos
 
